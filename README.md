@@ -27,7 +27,7 @@
     
   ![Snake animation](https://github.com/felipesimi1/felipesimi1/blob/output/github-contribution-grid-snake.svg) 
   
-  <a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnljdXhrMmVnampxcTc4cTZxa2Fsdm8wZXUwMHFqbjllNWJ1cXkwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2tDQZuljhwHTi/giphy.gif" width="100%"></a>
+  <a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnljdXhrMmVnampxcTc4cTZxa2Fsdm8wZXUwMHFqbjllNWJ1cXkwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2tDQZuljhwHTi/giphy.gif" width="880px"></a>
 </div>
   
   
