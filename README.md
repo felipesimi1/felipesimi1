@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://cdn.discordapp.com/attachments/621493394509922333/908516313675235328/megumin-dance.gif" align="right">
+  <img src="https://cdn.discordapp.com/attachments/621493394509922333/908516313675235328/megumin-dance.gif" width="15%" align="right">
 </div>
   
   ##
