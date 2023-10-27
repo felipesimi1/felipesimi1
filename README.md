@@ -25,7 +25,7 @@
     <a href="https://steamcommunity.com/id/Shark5443/" ><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
     
     
-  ![Snake animation](https://github.com/felipesimi1/felipesimi1/blob/output/github-contribution-grid-snake.svg)
+  <a![Snake animation](https://github.com/felipesimi1/felipesimi1/blob/output/github-contribution-grid-snake.svg)></a>
  
 </div>
   
