@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://64.media.tumblr.com/tumblr_lyxm6qk2a31r4ghkoo1_250.gifv" width="20%" >
 </div>
   
   ##
@@ -25,7 +24,7 @@
     <a href="https://steamcommunity.com/id/Shark5443/" ><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
     
     
-  ![Snake animation](https://github.com/felipesimi1/felipesimi1/blob/output/github-contribution-grid-snake.svg) <img src="https://64.media.tumblr.com/tumblr_lyxm6qk2a31r4ghkoo1_250.gifv" width="20%" >
+  ![Snake animation](https://github.com/felipesimi1/felipesimi1/blob/output/github-contribution-grid-snake.svg) <img src="https://64.media.tumblr.com/tumblr_lyxm6qk2a31r4ghkoo1_250.gifv" width="20%" align="right">
  
 </div>
   
