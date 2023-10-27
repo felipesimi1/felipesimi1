@@ -22,10 +22,9 @@
     <a href="https://www.instagram.com/_felipesimi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/luis-felipe-simi-202a52212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://steamcommunity.com/id/Shark5443/" ><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a><br />
-
-    
     
   ![Snake animation](https://github.com/felipesimi1/felipesimi1/blob/output/github-contribution-grid-snake.svg) 
+  
   <a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnljdXhrMmVnampxcTc4cTZxa2Fsdm8wZXUwMHFqbjllNWJ1cXkwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2tDQZuljhwHTi/giphy.gif" width="100%"></a>
 </div>
   
