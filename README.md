@@ -46,7 +46,7 @@
   <a href="https://www.adobe.com/br/products/photoshop.html" >
   <img src="https://skillicons.dev/icons?i=visualstudio"/>
 </a>
-<a href="https://github.com/pt" >
+<a href="https://github.com/felipesimi1" >
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 <a href="https://git-scm.com" >
