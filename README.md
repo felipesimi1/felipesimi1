@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=js"/>
 </a>
 <a href="https://pt-br.react.dev">
-  <img src="https://skillicons.dev/icons?i=react"/>
+  <img src="https://skillicons.dev/icons?i=react" alt = "react"/>
 </a>
 <a href="https://nodejs.org">
   <img src="https://skillicons.dev/icons?i=nodejs"/>
