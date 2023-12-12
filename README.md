@@ -1,10 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&random=false&width=450&height=55&lines=Opa%2C+tudo+bom%3F%F0%9F%98%81;Meu+Nome+%C3%A9+Lu%C3%ADs+Felipe;Estudo+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o%F0%9F%A7%A0;Muito+Prazer!!%F0%9F%98%8C)](https://git.io/typing-svg)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## SAUDAÇÕES!! 👋
-### O meu nome é Felipe, Seja bem-vindo!!! <img src="https://cdn.discordapp.com/attachments/621493394509922333/908516313675235328/megumin-dance.gif" min-width="200px" height="200px" max-width="200px" width="200px"  align="right" > 
+##
+### <img src="https://cdn.discordapp.com/attachments/621493394509922333/908516313675235328/megumin-dance.gif" min-width="200px" height="200px" max-width="200px" width="200px"  align="right" > 
 
-- 🧠 Estudante de Ciência da Computação
-<img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTU0bGhuOTRxcHNjeXRqbHNkcTl6aTlrbnc5cnZrNmt5a3BqMmtiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FjiEgZ4t96hym0kHxV/giphy.gif" height="150px" width = "300px">
+<img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTU0bGhuOTRxcHNjeXRqbHNkcTl6aTlrbnc5cnZrNmt5a3BqMmtiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FjiEgZ4t96hym0kHxV/giphy.gif" height="200px" width = "300px">
 
 ##
 #### Estou aprendendo sobre:
