@@ -1,4 +1,4 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Saudações!!&reversal=false&textBg=false&fontColor=white&width=800&fontAlignY=34&animation=fadeIn">
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Saudações!!&reversal=false&textBg=false&fontColor=white&width=800&fontAlignY=34&animation=fadeIn">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&random=false&width=450&height=55&lines=Opa%2C+tudo+bom%3F%F0%9F%98%81;Meu+Nome+%C3%A9+Lu%C3%ADs+Felipe;Estudo+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o%F0%9F%A7%A0;Muito+Prazer!!%F0%9F%98%8C)](https://git.io/typing-svg)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
